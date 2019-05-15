@@ -1,6 +1,6 @@
 # Provenance
 
-Udpate Argonaut Data Query DSTU2 IG to FHIR Version R4.
+Udpate Argonaut Data Query DSTU2 IG to include Provenance guidance for FHIR Version R4.
 
 Description: The Argonaut experience dictates clear guidance requires real implementation and testing. For this project, the Argonaut Provenance gudiance will be developed with the goal of having consistency among implementers to meet the [USCDI requirements](https://www.healthit.gov/isa/us-core-data-interoperability-uscdi). The final guidance will be added to the Argonaut Data Query R4, and ultimately US Core.
 
@@ -9,12 +9,13 @@ Description: The Argonaut experience dictates clear guidance requires real imple
 - April 2019
   - Launch!
 - May – June 2019
-  - -->Clear plan for incorporation into US Core OR Argonaut Stamp on US CORE?<--
-  - Prioritize sprints
-  - Virtual Connectathon?
-  - Include in Argonaut R4 sprints?
-- Summer 2019
+  - Develop priority provenance scenarios
   - Finalize approach
+
+- Summer 2019
+  - Formal guidance complete
+  - Include in Argonaut R4 Sprints (stretch goal, re-evalute in June!)
+
 - Sept 2019
    - FHIR Connectathon event to refine and develop the technical specification
 -  Fall 2019
